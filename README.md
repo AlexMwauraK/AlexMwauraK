@@ -1,7 +1,3 @@
-<p align="center"">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="MasterHead">
-</p>
-
 <h1 align="center">Hi 👋, I'm A Full-stack Developer & A Security Analyst</h1>
 <h3 align="center">Kenyan based Developer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250">
