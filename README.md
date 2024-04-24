@@ -1,10 +1,10 @@
 <p align="center"">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="MasterHead">
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm A Full-stack Developer & A Security Analyst</h1>
 <h3 align="center">Kenyan based Developer</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="350">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmwaurak&label=Profile%20views&color=0e75b6&style=flat" alt="alexmwaurak" /> </p>
 <p align="left">
@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexmwaurak" alt="alexmwaurak" /></a> </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="MasterHead" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
